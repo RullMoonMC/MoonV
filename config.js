@@ -3,19 +3,19 @@ const chalk = require("chalk")
 
 // Other
 global.log0 = fs.readFileSync("./media/fenzo.jpg")
-global.owner = ['6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524','6285778815524']
+global.owner = ['6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186','6285746030186']
 global.lolhuman = "" //Beli Di lolhuman.xyz
 global.rkyt = []
-global.banUser = ['6281366679021@s.whatsapp.net']
+global.banUser = ['0@s.whatsapp.net']
 global.ntilink = ['120363043965529911@g.us','120363022988111568@g.us']
 global.wlcm = []
 global.gcrevoke = ['19054091487-1424650263@g.us']
-global.packname = "© Fardanbot+🇲🇨\nim Form Indonesia "
-global.packname2 = "fardanBot++\n OwnerPack :6285778815524👿"
-global.author = "Fardan Ganteng 😎"
-global.sessionName = "Fardan"
-global.namebot = "Fardan Bot"
-global.linkgrupss = "https://chat.whatsapp.com/FTgqOEkbfWwJItwvUjhgTI"
+global.packname = "© MoonBot+🇲🇨\nim Form Indonesia "
+global.packname2 = "MoonBot\n OwnerPack :6285746030186👾"
+global.author = "MoonBot"
+global.sessionName = "session"
+global.namebot = "Moon Bot"
+global.linkgrupss = "https://urlis.net/MoonBot"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
@@ -33,7 +33,7 @@ global.mess = {
 global.limitawal = {
     premium: "Infinity",
     free: 2,
-    monayawal: 1000
+    monayawal: 30
 }
    global.rpg = {
    darahawal: 100,
